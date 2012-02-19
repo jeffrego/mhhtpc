@@ -1,0 +1,1 @@
+vlc --video-on-top --no-video-deco --intf rc --rc-host localhost:6000 --extraintf telnet --width=800 --height=600 --video-x=0 --video-y=0
